@@ -1,0 +1,10 @@
+This is a pure JavaScript library to draw 2D graphics without using SVG,VML or Canvas. 
+The library just uses div elements to construct the shapes.
+
+Along with all basics shapes like line, rectangle, polygon, circle, ellipse and arc, it can also draw the advanced shapes like curves and beziers. Even poly bezier (higher degree) can also be drawn.
+
+Along with all old/new desktop browsers and smart phones browser, it works even on not-so-smart small screen mobile browsers too.
+
+All the graphics drawn is done by implementing the computer graphics algorithms with javascript. The source code of the library can also be seen as a resource for computer graphics drawing algorithms.
+
+From performance and memory point of view, the number of div elements is optimized while implementing the graphics algorithms.
